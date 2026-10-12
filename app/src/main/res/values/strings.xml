@@ -1,3 +1,28 @@
 <resources>
     <string name="app_name">TicketSearchApp</string>
+    <string name="title">Поиск авиабилетов</string>
+    <string name="label_departure">Город вылета</string>
+    <string name="label_arrival">Город прилёта</string>
+    <string name="label_date_out">Дата вылета</string>
+    <string name="label_date_in">Дата прилёта</string>
+    <string name="label_adults">Взрослые</string>
+    <string name="label_children">Дети</string>
+    <string name="label_infants">Младенцы</string>
+    <string name="hint_date">дд.мм.гггг</string>
+    <string name="btn_search">Найти билеты</string>
+    <string name="date_picker_title">Выберите дату</string>
+    <string name="ok">ОК</string>
+    <string name="select_departure">Выберите город вылета</string>
+    <string name="select_arrival">Выберите город прилёта</string>
+    <string name="search_result">%1$s → %2$s, %3$s - %4$s, взрослых: %5$d, детей: %6$d, младенцев: %7$d</string>
+
+    <string-array name="cities">
+        <item>Иркутск</item>
+        <item>Красноярск</item>
+        <item>Новосибирск</item>
+        <item>Тюмень</item>
+        <item>Москва</item>
+        <item>Санкт-Петербург</item>
+        <item>Калининград</item>
+    </string-array>
 </resources>
